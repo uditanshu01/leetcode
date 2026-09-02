@@ -17,5 +17,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0899-orderly-queue](https://github.com/uditanshu01/leetcode/tree/master/0899-orderly-queue) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/uditanshu01/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## String
+|  |
+| ------- |
+| [0899-orderly-queue](https://github.com/uditanshu01/leetcode/tree/master/0899-orderly-queue) |
+## Sorting
+|  |
+| ------- |
+| [0899-orderly-queue](https://github.com/uditanshu01/leetcode/tree/master/0899-orderly-queue) |
+## Lexicographically Minimal String Rotation
+|  |
+| ------- |
+| [0899-orderly-queue](https://github.com/uditanshu01/leetcode/tree/master/0899-orderly-queue) |
 <!---LeetCode Topics End-->
