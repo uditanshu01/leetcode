@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/uditanshu01/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/uditanshu01/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/uditanshu01/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0899-orderly-queue](https://github.com/uditanshu01/leetcode/tree/master/0899-orderly-queue) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/uditanshu01/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Lexicographically Minimal String Rotation
 |  |
 | ------- |
@@ -39,5 +41,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/uditanshu01/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/uditanshu01/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
+## Queue
+|  |
+| ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/uditanshu01/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
