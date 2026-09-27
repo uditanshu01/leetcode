@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/uditanshu01/leetcode/tree/master/0231-power-of-two) |
 | [0899-orderly-queue](https://github.com/uditanshu01/leetcode/tree/master/0899-orderly-queue) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/uditanshu01/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/uditanshu01/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/uditanshu01/leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/uditanshu01/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
