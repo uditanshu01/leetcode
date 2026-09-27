@@ -9,11 +9,13 @@ public:
         }
         for(auto i:word2)
         {
-            v2[i-'a']++;
+            v1[i-'a']--;
         }
         for(int i=0;i<26;i++)
         {
-            if(abs(v1[i]-v2[i])>3)
+            if(v1[i]<-3)
+            return false;
+            if( v1[i]>3)
             return false;
         }
         return true;
