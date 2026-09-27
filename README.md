@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/uditanshu01/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/uditanshu01/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0899-orderly-queue](https://github.com/uditanshu01/leetcode/tree/master/0899-orderly-queue) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/uditanshu01/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 ## Sorting
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/uditanshu01/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+## Counting
+|  |
+| ------- |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/uditanshu01/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 <!---LeetCode Topics End-->
