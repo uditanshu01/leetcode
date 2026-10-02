@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/uditanshu01/leetcode/tree/master/0231-power-of-two) |
 | [0899-orderly-queue](https://github.com/uditanshu01/leetcode/tree/master/0899-orderly-queue) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/uditanshu01/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/uditanshu01/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
