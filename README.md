@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/uditanshu01/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/uditanshu01/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/uditanshu01/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/uditanshu01/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/uditanshu01/leetcode/tree/master/0231-power-of-two) |
+## Sliding Window
+|  |
+| ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/uditanshu01/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
