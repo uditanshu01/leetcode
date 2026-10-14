@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/uditanshu01/leetcode/tree/master/0031-next-permutation) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/uditanshu01/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/uditanshu01/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/uditanshu01/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/uditanshu01/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/uditanshu01/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/uditanshu01/leetcode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
