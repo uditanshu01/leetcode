@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/uditanshu01/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1207-unique-number-of-occurrences](https://github.com/uditanshu01/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/uditanshu01/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1748-sum-of-unique-elements](https://github.com/uditanshu01/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/uditanshu01/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/uditanshu01/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/uditanshu01/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/uditanshu01/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1748-sum-of-unique-elements](https://github.com/uditanshu01/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/uditanshu01/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/uditanshu01/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1748-sum-of-unique-elements](https://github.com/uditanshu01/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/uditanshu01/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 ## Bit Manipulation
 |  |
