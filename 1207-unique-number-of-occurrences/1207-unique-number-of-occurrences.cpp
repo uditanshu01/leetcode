@@ -6,18 +6,15 @@ public:
         {
             mp[arr[i]]++;
         }
-        vector<int>v;
+        set<int>st;
         for(auto it:mp)
         {
-            v.push_back(it.second);
+            st.insert(it.second);
         }
-        sort(v.begin(),v.end());
-        for(int i=0;i<v.size()-1;i++)
-        {
-            if(v[i]==v[i+1])
-            return false;
-        }
-        return true;
+       if(st.size()!=mp.size())
+       return false;
+       else
+       return true;
 
     }
 };
