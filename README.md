@@ -92,13 +92,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/uditanshu01/leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/uditanshu01/leetcode/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/uditanshu01/leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/uditanshu01/leetcode/tree/master/0841-keys-and-rooms) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/uditanshu01/leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/uditanshu01/leetcode/tree/master/0841-keys-and-rooms) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/uditanshu01/leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
