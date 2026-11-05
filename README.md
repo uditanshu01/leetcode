@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/uditanshu01/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/uditanshu01/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/uditanshu01/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/uditanshu01/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1748-sum-of-unique-elements](https://github.com/uditanshu01/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/uditanshu01/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/uditanshu01/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0899-orderly-queue](https://github.com/uditanshu01/leetcode/tree/master/0899-orderly-queue) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/uditanshu01/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/uditanshu01/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Lexicographically Minimal String Rotation
 |  |
 | ------- |
@@ -84,10 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/uditanshu01/leetcode/tree/master/0031-next-permutation) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/uditanshu01/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/uditanshu01/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/uditanshu01/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
